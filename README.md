@@ -33,7 +33,7 @@ A modern, lightweight, and intuitive **Note-Taking Application** built to help y
 
 **DevOps:**
 - Docker for containerization  
-- GitHub Actions for CI/CD  
+- GitHub Actions for CI/CD    
 - Deployment on Vercel / Netlify / Render  
 
 ---
@@ -44,3 +44,4 @@ A modern, lightweight, and intuitive **Note-Taking Application** built to help y
 ```bash
 git clone https://github.com/yourusername/note-taking-app.git
 cd note-taking-app
+#Create By Siddhartha singh
