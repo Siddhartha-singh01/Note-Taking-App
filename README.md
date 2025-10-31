@@ -5,7 +5,7 @@ A modern, lightweight, and intuitive **Note-Taking Application** built to help y
 ---
 
 ## 🚀 Features                          
-
+     
 - ✍️ **Rich Text & Markdown Editor** – Write notes using markdown or rich-text formatting.       
 - 📂 **Organized Notes** – Categorize notes into folders and tag them for easy search.  
 - 🔍 **Powerful Search** – Find any note instantly with full-text search.  
